@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently studying B.tech (CS-AI)<br>👨‍💻I'm learning web development<br>📽️I'm a freelance video editor<br>
+🔭I'm currently studying B.tech (CS-AI)<br>👨‍💻Full stack Java Developer<br>📽️Learning mobile app development<br>
 
 
 ## 🌐 Socials:
